@@ -4,21 +4,23 @@ Nama : Ditya Anggraeni
 
 Program : Become a Flutter Master, From Zero to Hero
 
-Repo : https://github.com/Rae2108/Mini_Project
+Repo :
 
 ## LOGIKA PROGRAM
 
-Component : 
+Component :
 
 - [mainheader1.PNG](./Screenshot/mainheader1.PNG) [mainheader1_1.PNG](./Screenshot/mainheader1_1.PNG)
 
 ![mainheader1.PNG](./Screenshot/mainheader1.PNG) ![mainheader1_1.PNG](./Screenshot/mainheader1_1.PNG)
 
-Controller : 
+Main header berisikan header yang menampilkan search input.
 
-- [controllers.PNG](./Screenshot/controllers.PNG) 
+Controller :
 
-![controllers.PNG](./Screenshot/controllers.PNG) 
+- [controllers.PNG](./Screenshot/controllers.PNG)
+
+![controllers.PNG](./Screenshot/controllers.PNG)
 
 - [dashboardcontrollers.PNG](./Screenshot/dashboardcontrollers.PNG)
 
@@ -28,41 +30,51 @@ Controller :
 
 ![homecontrollers1.PNG](./Screenshot/homecontrollers1.PNG) ![homecontrollers1_1.PNG](./Screenshot/homecontrollers1_1.PNG)
 
+Controller berfungsi untuk mengontroll jalannya program aplikasi.
+
 Model :
 
-- [addbenner.PNG](./Screenshot/addbenner.PNG) 
+- [addbenner.PNG](./Screenshot/addbenner.PNG)
 
-![addbenner.PNG](./Screenshot/addbenner.PNG) 
+![addbenner.PNG](./Screenshot/addbenner.PNG)
 
-- [category.PNG](./Screenshot/category.PNG) 
+- [category.PNG](./Screenshot/category.PNG)
 
-![category.PNG](./Screenshot/category.PNG) 
+![category.PNG](./Screenshot/category.PNG)
 
-Route : 
+Model memiliki fungsi untuk mengambil data dari API dan atau menjalankan perintah CRUD, dalam hal ini hanya mengambil data dari API yang dibuat dengan STRApi.
 
-- [appage.PNG](./Screenshot/appage.PNG) 
+Route :
 
-![appage.PNG](./Screenshot/appage.PNG) 
+- [appage.PNG](./Screenshot/appage.PNG)
 
-- [approute.PNG](./Screenshot/approute.PNG) 
+![appage.PNG](./Screenshot/appage.PNG)
 
-![approute.PNG](./Screenshot/approute.PNG) 
+- [approute.PNG](./Screenshot/approute.PNG)
 
-Service : 
+![approute.PNG](./Screenshot/approute.PNG)
 
-- [remotebanner.PNG](./Screenshot/remotebanner.PNG) 
+Route berfungsi untuk mengontroll jalannya program. Yang berarti halaman pertama kali yang diakses adalah Home.
+
+Service :
+
+- [remotebanner.PNG](./Screenshot/remotebanner.PNG)
 
 ![remotebanner.PNG](./Screenshot/remotebanner.PNG)
 
-- [remotecategory.PNG](./Screenshot/remotecategory.PNG) 
+- [remotecategory.PNG](./Screenshot/remotecategory.PNG)
 
 ![remotecategory.PNG](./Screenshot/remotecategory.PNG)
 
-Theme : 
+Service disini adalah kode yang akan digunakan model untuk mengambil data dari STRApi, berisikan Metode pengambilan dengan HTTP Request, lokasi, lalu me return hasil berupa JSON yang diolah oleh model.
 
-- [apptheme1.PNG](./Screenshot/apptheme1.PNG) 
+Theme :
 
-![apptheme1.PNG](./Screenshot/apptheme1.PNG) 
+- [apptheme1.PNG](./Screenshot/apptheme1.PNG)
+
+![apptheme1.PNG](./Screenshot/apptheme1.PNG)
+
+Theme adalah settingan default atau tema untuk mengatur tampilan aplikasi.
 
 View :
     - Account
