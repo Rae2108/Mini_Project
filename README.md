@@ -4,7 +4,7 @@ Nama : Ditya Anggraeni
 
 Program : Become a Flutter Master, From Zero to Hero
 
-Repo :
+Repo : https://github.com/Rae2108/Mini_Project
 
 ## LOGIKA PROGRAM
 
@@ -76,88 +76,103 @@ Theme :
 
 Theme adalah settingan default atau tema untuk mengatur tampilan aplikasi.
 
-View :
-    - Account
- - [accountscreen1.PNG](./Screenshot/accountscreen1.PNG) [accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) [accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
+View : - Account
 
- ![accountscreen1.PNG](./Screenshot/accountscreen1.PNG) ![accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) ![accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
+- [accountscreen1.PNG](./Screenshot/accountscreen1.PNG) [accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) [accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
 
- - [login1.PNG](./Screenshot/login1.PNG) [login1_1.PNG](./Screenshot/login1_1.PNG) 
+![accountscreen1.PNG](./Screenshot/accountscreen1.PNG) ![accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) ![accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
 
-![login1.PNG](./Screenshot/login1.PNG) ![login1_1.PNG](./Screenshot/login1_1.PNG) 
+Accunt berisikan tampilan untuk tab account, dan berisikan tombol untuk login juga register.
 
- - [signup1.PNG](./Screenshot/signup1.PNG) [signup1_1.PNG](./Screenshot/signup1_1.PNG) [signup1_2.PNG](./Screenshot/signup1_2.PNG)
+- [login1.PNG](./Screenshot/login1.PNG) [login1_1.PNG](./Screenshot/login1_1.PNG)
 
- ![signup1.PNG](./Screenshot/signup1.PNG) ![signup1_1.PNG](./Screenshot/signup1_1.PNG) ![signup1_2.PNG](./Screenshot/signup1_2.PNG)
+![login1.PNG](./Screenshot/login1.PNG) ![login1_1.PNG](./Screenshot/login1_1.PNG)
 
-- Category 
- - [categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) [categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG) 
+Login berupa form isian untuk memasukan Email dan password.
 
- ![categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) ![categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG)
+- [signup1.PNG](./Screenshot/signup1.PNG) [signup1_1.PNG](./Screenshot/signup1_1.PNG) [signup1_2.PNG](./Screenshot/signup1_2.PNG)
 
-- Dashboard : 
+![signup1.PNG](./Screenshot/signup1.PNG) ![signup1_1.PNG](./Screenshot/signup1_1.PNG) ![signup1_2.PNG](./Screenshot/signup1_2.PNG)
 
-- [dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG) 
+Signup, data yang dibutuhkan adalah fullname email dan password.
+
+- Category
+- [categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) [categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG)
+
+![categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) ![categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG)
+
+Category menampilkan keseluruhan kategori yang tersedia pada aplikasi.
+
+- Dashboard :
+
+- [dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG)
 
 ![dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG)
 
-- [dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) [dashboardscreen1_1.PNG](./Screenshot/dashboardscreen1_1.PNG) 
+- [dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) [dashboardscreen1_1.PNG](./Screenshot/dashboardscreen1_1.PNG)
 
-![dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) ![dashboardscreen1_1.PNG](. /Screenshot/dashboardscreen1_1.PNG) 
+![dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) ![dashboardscreen1_1.PNG](. /Screenshot/dashboardscreen1_1.PNG)
+
+Dashboard berisikan kode dari home dan header, ditambah dengan Navigation Bar dibawah layar yang dibuat menggunakan flutter_snake_navigationbar.
 
 - Home :
 
-- [bannercard1.PNG](./Screenshot/bannercard1.PNG) [bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
+- [bannercard1.PNG](./Screenshot/bannercard1.PNG) [bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG)
 
-![bannercard1.PNG](./Screenshot/bannercard1.PNG) ![bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
+![bannercard1.PNG](./Screenshot/bannercard1.PNG) ![bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG)
 
-- [carauselloading1.PNG](./Screenshot/carauselloading1.PNG) [carauselloading1_1.PNG](.    /Screenshot/carauselloading1_1.PNG) 
+- [carauselloading1.PNG](./Screenshot/carauselloading1.PNG) [carauselloading1_1.PNG](. /Screenshot/carauselloading1_1.PNG)
 
 ![carauselloading1.PNG](./Screenshot/carauselloading1.PNG) ![carauselloading1_1.PNG](./Screenshot/carauselloading1_1.PNG)
 
-- [carauselslider1.PNG](./Screenshot/carauselslider1.PNG) [carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG) 
+- [carauselslider1.PNG](./Screenshot/carauselslider1.PNG) [carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG)
 
 ![carauselslider1.PNG](./Screenshot/carauselslider1.PNG) ![carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG)
 
-- [popularcategory.PNG](./Screenshot/popularcategory.PNG) 
+- [popularcategory.PNG](./Screenshot/popularcategory.PNG)
 
 ![popularcategory.PNG](./Screenshot/popularcategory.PNG)
 
-- [popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) [popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) [popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
+- [popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) [popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) [popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG)
 
-![popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) ![popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) ![popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
+![popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) ![popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) ![popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG)
 
-- [popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG) 
+- [popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG)
 
 ![popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG)
 
-- [popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG) 
+- [popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG)
 
 ![popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG)
 
-- [sectiontittle.PNG](./Screenshot/sectiontittle.PNG) 
+- [sectiontittle.PNG](./Screenshot/sectiontittle.PNG)
 
 ![sectiontittle.PNG](./Screenshot/sectiontittle.PNG)
 
-- [homescreen1.PNG](./Screenshot/homescreen1.PNG) [homescreen1_1.PNG](./Screenshot/homescreen1_1.PNG) 
+- [homescreen1.PNG](./Screenshot/homescreen1.PNG) [homescreen1_1.PNG](./Screenshot/homescreen1_1.PNG)
 
 ![homescreen1.PNG](./Screenshot/homescreen1.PNG) ![homescreen1_1.PNG](./Screenshot/homescreen1_1.PNG)
 
-- [menuscreen1.PNG](./Screenshot/menuscreen1.PNG) [menuscreen1_1.PNG](./Screenshot/menuscreen1_1.PNG) 
+- [menuscreen1.PNG](./Screenshot/menuscreen1.PNG) [menuscreen1_1.PNG](./Screenshot/menuscreen1_1.PNG)
 
-![menuscreen1.PNG](./Screenshot/menuscreen1.PNG) ![menuscreen1_1.PNG](./Screenshot/menuscreen1_1.PNG) 
+![menuscreen1.PNG](./Screenshot/menuscreen1.PNG) ![menuscreen1_1.PNG](./Screenshot/menuscreen1_1.PNG)
 
-- [const.PNG](./Screenshot/const.PNG) 
+Home berisikan berbagai macam widget, seperti carousel untuk banner dan juga popular category yang ada di home.
+
+- [const.PNG](./Screenshot/const.PNG)
 
 ![const.PNG](./Screenshot/const.PNG)
 
-- [main.PNG](./Screenshot/main.PNG) 
+Const menyimpan base url untuk API.
+
+- [main.PNG](./Screenshot/main.PNG)
 
 ![main.PNG](./Screenshot/main.PNG)
 
+Main adalah main program untuk yang akan dijalankan pertama kali.
 
-# Output 
+# Output
 
-- [Output1.PNG](./Screenshot/Output1.PNG) [Output2.PNG](./Screenshot/Output2.PNG) [Output3.PNG](./Screenshot/Output3.PNG) [Output4.PNG](./Screenshot/Output4.PNG) [Output5.PNG](./Screenshot/Output5.PNG) 
+- [Output1.PNG](./Screenshot/Output1.PNG) [Output2.PNG](./Screenshot/Output2.PNG) [Output3.PNG](./Screenshot/Output3.PNG) [Output4.PNG](./Screenshot/Output4.PNG) [Output5.PNG](./Screenshot/Output5.PNG)
 
 ![Output1.PNG](./Screenshot/Output1.PNG) ![Output2.PNG](./Screenshot/Output2.PNG) ![Output3.PNG](./Screenshot/Output3.PNG) ![Output4.PNG](./Screenshot/Output4.PNG) ![Output5.PNG](./Screenshot/Output5.PNG)
