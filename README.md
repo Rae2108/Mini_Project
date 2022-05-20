@@ -66,61 +66,62 @@ Theme :
 
 View :
     - Account
-        - [accountscreen1.PNG](./Screenshot/accountscreen1.PNG) [accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) [accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
+ - [accountscreen1.PNG](./Screenshot/accountscreen1.PNG) [accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) [accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
 
-        ![accountscreen1.PNG](./Screenshot/accountscreen1.PNG) ![accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) ![accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
+ ![accountscreen1.PNG](./Screenshot/accountscreen1.PNG) ![accountscreen1_1.PNG](./Screenshot/accountscreen1_1.PNG) ![accountscreen1_2.PNG](./Screenshot/accountscreen1_2.PNG)
 
-        - [login1.PNG](./Screenshot/login1.PNG) [login1_1.PNG](./Screenshot/login1_1.PNG) 
+ - [login1.PNG](./Screenshot/login1.PNG) [login1_1.PNG](./Screenshot/login1_1.PNG) 
 
-        ![login1.PNG](./Screenshot/login1.PNG) ![login1_1.PNG](./Screenshot/login1_1.PNG) 
+![login1.PNG](./Screenshot/login1.PNG) ![login1_1.PNG](./Screenshot/login1_1.PNG) 
 
-        - [signup1.PNG](./Screenshot/signup1.PNG) [signup1_1.PNG](./Screenshot/signup1_1.PNG) [signup1_2.PNG](./Screenshot/signup1_2.PNG)
+ - [signup1.PNG](./Screenshot/signup1.PNG) [signup1_1.PNG](./Screenshot/signup1_1.PNG) [signup1_2.PNG](./Screenshot/signup1_2.PNG)
 
-        ![signup1.PNG](./Screenshot/signup1.PNG) ![signup1_1.PNG](./Screenshot/signup1_1.PNG) ![signup1_2.PNG](./Screenshot/signup1_2.PNG)
+ ![signup1.PNG](./Screenshot/signup1.PNG) ![signup1_1.PNG](./Screenshot/signup1_1.PNG) ![signup1_2.PNG](./Screenshot/signup1_2.PNG)
 
-    - Category 
-        - [categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) [categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG) 
+- Category 
+ - [categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) [categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG) 
 
-        ![categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) ![categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG)
+ ![categoryscreen1.PNG](./Screenshot/categoryscreen1.PNG) ![categoryscreen1_1.PNG](./Screenshot/categoryscreen1_1.PNG)
 
-    - Dashboard : 
-        - [dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG) 
+- Dashboard : 
 
-        ![dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG)
+- [dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG) 
 
-        - [dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) [dashboardscreen1_1.PNG](./Screenshot/dashboardscreen1_1.PNG) 
+![dasboardbinding.PNG](./Screenshot/dasboardbinding.PNG)
 
-        ![dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) ![dashboardscreen1_1.PNG](./Screenshot/dashboardscreen1_1.PNG) 
+- [dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) [dashboardscreen1_1.PNG](./Screenshot/dashboardscreen1_1.PNG) 
 
-    - Home :
-        - [bannercard1.PNG](./Screenshot/bannercard1.PNG) [bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
+![dashboardscreen1.PNG](./Screenshot/dashboardscreen1.PNG) ![dashboardscreen1_1.PNG](. /Screenshot/dashboardscreen1_1.PNG) 
 
-        ![bannercard1.PNG](./Screenshot/bannercard1.PNG) ![bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
+- Home :
 
-        - [carauselloading1.PNG](./Screenshot/carauselloading1.PNG) [carauselloading1_1.PNG](./Screenshot/carauselloading1_1.PNG) 
+- [bannercard1.PNG](./Screenshot/bannercard1.PNG) [bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
 
-        ![carauselloading1.PNG](./Screenshot/carauselloading1.PNG) ![carauselloading1_1.PNG](./Screenshot/carauselloading1_1.PNG)
+![bannercard1.PNG](./Screenshot/bannercard1.PNG) ![bannercard1_1.PNG](./Screenshot/bannercard1_1.PNG) 
 
-        - [carauselslider1.PNG](./Screenshot/carauselslider1.PNG) [carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG) 
+- [carauselloading1.PNG](./Screenshot/carauselloading1.PNG) [carauselloading1_1.PNG](.    /Screenshot/carauselloading1_1.PNG) 
 
-        ![carauselslider1.PNG](./Screenshot/carauselslider1.PNG) ![carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG)
+![carauselloading1.PNG](./Screenshot/carauselloading1.PNG) ![carauselloading1_1.PNG](./Screenshot/carauselloading1_1.PNG)
 
-        - [popularcategory.PNG](./Screenshot/popularcategory.PNG) 
+- [carauselslider1.PNG](./Screenshot/carauselslider1.PNG) [carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG) 
 
-        ![popularcategory.PNG](./Screenshot/popularcategory.PNG)
+![carauselslider1.PNG](./Screenshot/carauselslider1.PNG) ![carauselslider1_1.PNG](./Screenshot/carauselslider1_1.PNG)
 
-        - [popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) [popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) [popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
+- [popularcategory.PNG](./Screenshot/popularcategory.PNG) 
 
-        ![popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) ![popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) ![popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
+![popularcategory.PNG](./Screenshot/popularcategory.PNG)
 
-        - [popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG) 
+- [popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) [popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) [popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
 
-        ![popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG)
+![popularcategorycard1.PNG](./Screenshot/popularcategorycard1.PNG) ![popularcategorycard1_1.PNG](./Screenshot/popularcategorycard1_1.PNG) ![popularcategorycard1_2.PNG](./Screenshot/popularcategorycard1_2.PNG) 
 
-        - [popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG) 
+- [popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG) 
 
-        ![popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG)
+![popularcategoryloadingcard.PNG](./Screenshot/popularcategoryloadingcard.PNG)
 
+- [popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG) 
+
+![popularcategoryloadingcard1.PNG](./Screenshot/popularcategoryloadingcard1.PNG)
 
 - [sectiontittle.PNG](./Screenshot/sectiontittle.PNG) 
 
